@@ -1,14 +1,10 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "João" },
+    { "id": 2, "title": "Maria" },
+    { "id": 3, "title": "José" },
+    { "id": 4, "title": "Francisco" },
+    { "id": 5, "title": "Carlos" },
+    { "id": 6, "title": "Ana" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
